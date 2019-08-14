@@ -8,10 +8,10 @@ returned:
 * alot hashahar  - עלות השחר
 * talit tfilin - זמן הנחת טלית ותפילין
 * zriha (sunrise) - זריחה
-* sof_kriaat_shma - סוף זמן קריאת שמע
-* sof_zman_tfila - סוף זמן תפילה
-* hatzot_hayom - חצות היום
-* minha_gdola - מנחה גדולה
-* plag_haminha - פלג המנחה
+* sof kriaat_shma - סוף זמן קריאת שמע
+* sof zman_tfila - סוף זמן תפילה
+* hatzot hayom - חצות היום
+* minha gdola - מנחה גדולה
+* plag haminha - פלג המנחה
 * shkiaa (sunset) - שקיעה
-* tzet_hakocavim - צאת הכוכבים
+* tzet hakocavim - צאת הכוכבים
