@@ -1,17 +1,13 @@
-# Hebrew-Celander-PHP
-Zmani-Hayom in php
+# Hebrew Calendar In php
+
+=> JewishCalendar
+* [Demo](https://yehudae.net/JewishCalendar/)
+* Site for converting and calculating a Gregorian date to a Hebrew date.
 
 
-The best API to hebrew-date (zmani-hayom) in php!
+=> Zmaney Hayom API
+* API that gives the time of day (including sunrise, sunset, etc.)
+* Very simple to use, consists of only one file!
 
-returned:
-* alot hashahar  - עלות השחר
-* talit tfilin - זמן הנחת טלית ותפילין
-* zriha (sunrise) - זריחה
-* sof kriaat_shma - סוף זמן קריאת שמע
-* sof zman_tfila - סוף זמן תפילה
-* hatzot hayom - חצות היום
-* minha gdola - מנחה גדולה
-* plag haminha - פלג המנחה
-* shkiaa (sunset) - שקיעה
-* tzet hakocavim - צאת הכוכבים
+
+Feedback: [HebCalendar@yehudae.net](mailto:HebCalendar@yehudae.net)
